@@ -94,11 +94,6 @@ These can be installed using the `requirements.txt` file.
 
 ---
 
-## License
-
-This repository is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
 
 ## Contact
 
